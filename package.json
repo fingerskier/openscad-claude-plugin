@@ -1,0 +1,39 @@
+{
+  "name": "openscad-claude-plugin",
+  "version": "2026.2.28",
+  "description": "OpenSCAD parametric modeling plugin for Claude Code — generate, edit, and visually inspect 3D models",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    ".claude-plugin/",
+    "mcp-servers.json",
+    "skills/"
+  ],
+  "keywords": [
+    "claude-code-plugin",
+    "openscad",
+    "3d-modeling",
+    "cad",
+    "stl",
+    "parametric",
+    "mcp",
+    "viewer"
+  ],
+  "author": {
+    "name": "Fingerskier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/openscad-claude-plugin.git"
+  },
+  "homepage": "https://github.com/fingerskier/openscad-claude-plugin#readme",
+  "bugs": {
+    "url": "https://github.com/fingerskier/openscad-claude-plugin/issues"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "openscad-viewer": ">=2026.2.1"
+  }
+}

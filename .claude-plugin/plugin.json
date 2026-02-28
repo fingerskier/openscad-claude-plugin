@@ -1,0 +1,9 @@
+{
+  "name": "openscad",
+  "version": "2026.2.28",
+  "description": "OpenSCAD parametric modeling — generate, edit, and visually inspect 3D models",
+  "author": { "name": "Fingerskier" },
+  "license": "MIT",
+  "keywords": ["openscad", "3d-modeling", "cad", "stl", "parametric", "viewer"],
+  "mcpServers": "./mcp-servers.json"
+}
